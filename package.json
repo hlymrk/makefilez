@@ -1,0 +1,19 @@
+{
+  "name": "makefile-s",
+  "version": "0.0.1",
+  "description": "Another simple way to make multiple file(s) with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "fs",
+    "mkdir",
+    "mkdirp",
+    "files",
+    "make"
+  ],
+  "author": "holymark",
+  "license": "MIT"
+}
