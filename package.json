@@ -1,11 +1,11 @@
 {
-  "name": "@holymark/makefilez",
+  "name": "makefilez",
   "version": "0.0.1",
   "description": "Another simple way to make multiple file(s) with nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "fs",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/holymark/makefilez/issues"
   },
-  "homepage": "https://github.com/holymark/makefilez#readme"
+  "homepage": "https://github.com/holymark/makefilez#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
