@@ -2,7 +2,7 @@
   "name": "makefilez",
   "version": "0.0.2",
   "description": "Another simple way to make multiple file(s) with nodejs",
-  "main": "index.js",
+  "main": "makefilez.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
