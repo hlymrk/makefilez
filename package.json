@@ -1,5 +1,5 @@
 {
-  "name": "makefile-s",
+  "name": "@holymark/makefilez",
   "version": "0.0.1",
   "description": "Another simple way to make multiple file(s) with nodejs",
   "main": "index.js",
@@ -15,5 +15,13 @@
     "make"
   ],
   "author": "holymark",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holymark/makefilez.git"
+  },
+  "bugs": {
+    "url": "https://github.com/holymark/makefilez/issues"
+  },
+  "homepage": "https://github.com/holymark/makefilez#readme"
 }
